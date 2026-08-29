@@ -29,7 +29,13 @@ https://drive.google.com/open?id=110kwja8eBEpv88a00tZO-DDgLQToOIHj&authuser=cs4f
 - Chapters for vairous topics: https://drive.google.com/open?id=0B7lpbAK_sc8PfjJNQWhHclJLdHJ1Q0RiaC12Sk92VUNCcGZsbXVfNHJqLTl5ZVoxLS0yYjg&resourcekey=0-h6Vnxgmo66VHhVSHRu0XEw&usp=drive_fs
 
 ## Student github accounts
-
+- Henry: HenryFu120509
+- Grace: eatingpik4chus
+- Rex: 2BRex
+- Minghan:
+- Ivy
+- Michelle:
+- 
 ## USACO account
 
 # C++ Solution Template
