@@ -7,7 +7,7 @@ https://drive.google.com/open?id=1NYluwnMl7CKde1U_yfbv_ObcN2bAl3DI&usp=drive_fs 
 
 
 1. create a file (make sure your name is in the file name and make it read and write) at https://ide.usaco.guide/
-2. submit your link at https://bit.ly/cs4fun-hw
+2. submit your link at https://forms.gle/PsJA8zhPep35ERrW6
 
 
 <!-- ## gradebook
